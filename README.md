@@ -1,1 +1,1 @@
-Projeto pequeno feito, mas que ainda é prerciso melhorar, o banco de dados fiz manualmente para esse projeto, em alguma outra hora, se houver interesse pelo meu trabalho, estarei fazendo novos commits para visualização.
+Projeto pequeno feito, mas que ainda é preciso melhorar. O banco de dados fiz manualmente para esse projeto, em alguma outra hora, se houver interesse pelo meu trabalho, estarei fazendo novos commits para visualização.
